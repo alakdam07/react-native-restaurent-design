@@ -1,19 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: green;}
-p    {color: red;}
-img {width: 200px;}
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
- <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334756/ayqpjnyglh6xpkvfbtzt.png" alt="2nd" />
-  <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334756/ayqpjnyglh6xpkvfbtzt.png" alt="2nd" />
-
-</body>
-</html>
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
