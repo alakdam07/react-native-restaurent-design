@@ -12,16 +12,21 @@
       margin: 0;
     }
     img {
-      width: 1280px;
+      width: 200px;
+    }
+    .flex {
+      display:flex;
+      justify-content: "center"
     }
   </style>
 
 </head>
 
 <body>
-  <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334757/jrwtge1vm9bgn9qbi9ld.png" alt="Poppies at the Tower of London" />
-
-
+<div class="flex">
+  <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334757/jrwtge1vm9bgn9qbi9ld.png" alt="first" />
+    <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334756/ayqpjnyglh6xpkvfbtzt.png" alt="2nd" />
+</div>
 </body>
 
 </html>
