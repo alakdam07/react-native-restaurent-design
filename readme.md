@@ -1,32 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <base target="_blank">
-  <title>Udacity RI: single image</title>
-
-  <link rel="icon" sizes="192x192" href="https://res.cloudinary.com/drewzxzgc/image/upload/v1602664189/qx7zyhcnhnfi6y8xhvcs.jpg">
-
-  <style>
-    body {
-      margin: 0;
-    }
-    img {
-      width: 200px;
-    }
-    .flex {
-      display:flex;
-      justify-content: "center"
-    }
-  </style>
-
+<style>
+body {background-color: powderblue;}
+h1   {color: green;}
+p    {color: red;}
+img {width: 200px;}
+</style>
 </head>
-
 <body>
-<div class="flex">
-  <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334757/jrwtge1vm9bgn9qbi9ld.png" alt="first" />
-    <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334756/ayqpjnyglh6xpkvfbtzt.png" alt="2nd" />
-</div>
-</body>
 
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+ <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334756/ayqpjnyglh6xpkvfbtzt.png" alt="2nd" />
+  <img src="https://res.cloudinary.com/drewzxzgc/image/upload/v1603334756/ayqpjnyglh6xpkvfbtzt.png" alt="2nd" />
+
+</body>
 </html>
